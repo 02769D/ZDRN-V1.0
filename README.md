@@ -49,4 +49,4 @@ python train_model.py
 欢迎对本项目感兴趣的开发者、研究者参与贡献，无论是代码优化、理论探讨，还是文档完善。若在使用过程中发现问题或有改进建议，可通过提交[Issues](https://github.com/02769D/ZDRN - Fractal - Topology - NN/issues)与我们交流。
 
 ## 八、联系我们
-如有任何疑问或合作意向，可通过邮件联系：your_email@example.com（请替换为实际邮箱） 。 期待与您共同推动ZDRN神经网络架构的发展！ 
+如有任何疑问或合作意向，可通过邮件联系：204783198@qq.com 。 期待与您共同推动ZDRN神经网络架构的发展！ 
